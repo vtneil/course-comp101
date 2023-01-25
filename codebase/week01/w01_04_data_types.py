@@ -8,5 +8,5 @@ c = 43.668
 # String (An array of characters)
 name = "Somchai"
 
-# List
+# List of integers
 d = [1, 1, 2, 3, 5, 7]
